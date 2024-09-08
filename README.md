@@ -5,8 +5,10 @@
   and displays the path to all the files that you have based on that pattern.
   
 ## How to install
+  First clone this repository to your machine.
+  Navigate to the main directory of the project.
   In the main directory follow theese commands:
-  cargo build --rebase
+  cargo build --rebase (optional as it is already built)
   cargo install --path .
 
 ## How to use
