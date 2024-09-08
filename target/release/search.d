@@ -1,0 +1,1 @@
+/mnt/c/Users/Arthur/Desktop/Projects/Facultate/Rust/search/target/release/search: /mnt/c/Users/Arthur/Desktop/Projects/Facultate/Rust/search/src/lib.rs /mnt/c/Users/Arthur/Desktop/Projects/Facultate/Rust/search/src/main.rs
