@@ -8,7 +8,7 @@
   First clone this repository to your machine.
   Navigate to the main directory of the project.
   In the main directory follow theese commands:
-  cargo build --rebase (optional as it is already built)
+  cargo build --release (optional as it is already built)
   cargo install --path .
 
 ## How to use
